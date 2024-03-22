@@ -1,2 +1,2 @@
 # Pokemon-GTPLAY
-In questa repository sono inserite tutte le consegne sul progetto Pokemon svolte dal team GTPLAY
+In questa repository sono inserite tutte le consegne del gruppo GTPLAY per il progetto di Mobile Programming svolto durante il corso di laurea triennale in Ingegneria Informatica. Nella cartella Pokemon sono presenti i codici sorgente dell'applicazione. Si fa presente che se si prova ad avviare l'app, quest'ultima potrebbe andare in crash a causa di aggiornamenti effettuati alle API pokemon (https://pokeapi.co/) che dal 2021 potrebbero aver subito cambiamenti.
